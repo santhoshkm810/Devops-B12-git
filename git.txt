@@ -1,2 +1,4 @@
+this is the devops branch changes made by the second person
 this is a main branch doing person 1
+Changes made in the remote repository from person 2
 editing in remote repository from person 1
